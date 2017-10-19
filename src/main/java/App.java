@@ -21,6 +21,6 @@ public class App {
     public static void main(String[] args) {
         logger.info("App started.");
         logger.debug("About to talk :");
-        System.out.println("Hello monde de merde !");
+        System.out.println("Hello shitty world !");
     }
 }
