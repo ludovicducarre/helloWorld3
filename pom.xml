@@ -51,7 +51,7 @@
     <!-- ADAPTER les métadonnées -->
     <name>helloworld</name>
     <description></description>
-    <url>https://${github.account}.github.io/helloworld/</url>
+    <url>https://${github.account}.github.io/helloWorld3/</url>
     <inceptionYear>2017</inceptionYear>
 
     <organization>
