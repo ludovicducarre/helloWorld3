@@ -43,6 +43,7 @@
     <!-- ADAPTER les coordonnées -->
     <groupId>fr.univtln.lducarre365.testHello</groupId>
     <artifactId>HelloWorld3</artifactId>
+
     <version>1.0-release</version>
 
     <packaging>jar</packaging>
