@@ -22,5 +22,6 @@ public class App {
         logger.info("App started.");
         logger.debug("About to talk :");
         System.out.println("Hello shitty world !");
+
     }
 }
